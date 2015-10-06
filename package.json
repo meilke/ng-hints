@@ -1,6 +1,7 @@
 {
   "name": "ng-hints",
   "scripts": {
+    "install": "npm install -g grunt-cli bower && bower install --config.interactive=false",
     "test": "grunt"
   },
   "version": "0.0.1",
